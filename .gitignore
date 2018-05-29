@@ -3,3 +3,5 @@ EPS
 price_history
 tars
 snp_list
+cachedir
+.ipynb_checkpoints
